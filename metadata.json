@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Zimbabwe Maids Centre",
+  "description": "A platform to connect clients with reliable domestic workers in Zimbabwe. Clients can post jobs, browse profiles, and hire, while workers can create profiles and apply for jobs.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
